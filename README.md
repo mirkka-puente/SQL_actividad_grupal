@@ -1,2 +1,2 @@
 Utilice estas relaciones:
-![E-R](imagenSQL.jpeg.png)
+![E-R](main/imagenSQL.jpeg)
