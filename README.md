@@ -1,2 +1,2 @@
 Utilice estas relaciones:
-![Texto alternativo](ruta/de/la/imagen.png)
+![E-R](imagenSQL.jpeg.png)
